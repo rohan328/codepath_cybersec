@@ -1,7 +1,7 @@
 # Kali
 
 **NOTE**
-I had already installed Kali in my laptop so I didnt install it on a VM and I have uploaded only the screenfetch gif.
+I had already installed Kali on my computer so I didnt install it on a VM and I have uploaded only the screenfetch gif.
 
 **Homework Instructions**: 
 
