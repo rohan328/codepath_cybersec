@@ -20,5 +20,6 @@ Save the file as **screenfetch.gif**.
 **Challenges and Problems**: 
 ### Booting Kali
 <img src="boot.gif" alt="Running screenfetch">
+
 ### Running screenfetch
 <img src="screenfetch.gif" alt="Running screenfetch">
