@@ -1,8 +1,8 @@
 # Kali
 
-**NOTE**
+```**NOTE**
 I had already installed Kali on my computer so I didnt install it on a VM. There was no way to record the GIF during boot on a physical device so I recorded it using my phone.
-
+```
 **Homework Instructions**: 
 
 Create a GIF recording of you running the following command block in your Kali Terminal. Copy it to a text editor first and **replace the first 2 variables, name and univ, with your real name and college name**, then copy/paste the code block into a Terminal. 
