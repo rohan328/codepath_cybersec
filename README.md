@@ -1,7 +1,9 @@
 # Kali
 
-```**NOTE**
-I had already installed Kali on my computer so I didnt install it on a VM. There was no way to record the GIF during boot on a physical device so I recorded it using my phone.
+```
+**NOTE**
+I had already installed Kali on my computer so I didnt install it on a VM. 
+There was no way to record the GIF during boot on a physical device so I recorded it using my phone.
 ```
 **Homework Instructions**: 
 
