@@ -20,8 +20,10 @@ echo $name'@'$univ
 Save the file as **screenfetch.gif**.
 
 **Challenges and Problems**: 
+### Running screenfetch
+<img src="screenfetch.gif" alt="Running screenfetch">
+
 ### Booting Kali
 <img src="boot.gif" alt="Running screenfetch">
 
-### Running screenfetch
-<img src="screenfetch.gif" alt="Running screenfetch">
+
