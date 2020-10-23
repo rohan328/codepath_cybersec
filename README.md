@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [x] GIF Walkthrough: <a href="exploit1.gif">exploit1.gif</a>
-  - [x] Steps to recreate: Copy the code from exploit1.txt to comment field on wordpress
+  - [x] Steps to recreate: Copy the code from <a href="exploit1.txt">exploit1.txt</a> to comment field on wordpress
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Vulnerability Name or ID
@@ -52,9 +52,6 @@ Time spent: **X** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
-## Assets
-
-List any additional assets, such as scripts or files
 
 ## Resources
 
@@ -62,10 +59,6 @@ List any additional assets, such as scripts or files
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while doing the work
 
 ## License
 
