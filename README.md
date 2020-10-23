@@ -13,8 +13,7 @@ Time spent: **X** hours spent in total
     - Fixed in version: 4.2.1
   - [x] GIF Walkthrough: <a href="exploit1.gif">exploit1.gif</a>
   - [x] Steps to recreate: Copy the code from <a href="exploit1.txt">exploit1.txt</a> to comment field on wordpress
-  - [x] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  
 ### 2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
@@ -22,36 +21,14 @@ Time spent: **X** hours spent in total
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 3. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 4. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 5. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
+### 3. (Required) Wordpress Large File Upload
+  - [x] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.15
+  - [x] GIF Walkthrough: <a href="exploit3.gif">exploit3.gif</a>
+  - [x] Steps to recreate: Create a large file(greater than 20mb) and add XSS script to its name. Upload it using admin portal. File wont upload but XSS will execute. (File used is <a href="ex3<img src=x onerror=alert('EXPLOIT')>.jpg">this</a>
 
 ## Resources
 
